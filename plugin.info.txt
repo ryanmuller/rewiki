@@ -1,0 +1,7 @@
+base   rewiki
+author Ryan Muller
+email  cognitionmachine@gmail.com
+date   2014-07-05
+name   Rewiki
+desc   Add to page by sending data through parameters.
+url    http://github.com/ryanmuller/rewiki
